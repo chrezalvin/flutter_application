@@ -1,6 +1,12 @@
+---
+runme:
+  id: 01HNH97S5BF59N2MMFHA6E4G5C
+  version: v2.2
+---
+
 # flutter_application
 
-A new Flutter project.
+A new Flutter project for training flutter app development and production.
 
 ## Getting Started
 
