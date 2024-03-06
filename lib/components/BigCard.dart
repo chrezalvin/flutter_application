@@ -13,7 +13,7 @@ class BigCard extends StatelessWidget {
       Colors.grey,
       Colors.amber,
       Colors.blue,
-      Colors.yellowAccent
+      Colors.yellowAccent,
     ];
 
     Color color = colors[Random().nextInt(colors.length)];
